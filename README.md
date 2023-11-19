@@ -4,7 +4,7 @@ This repository contains the source code for a simple calculator web application
 
 ## Features
 
-- **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
+- **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division
 - **Clear Functionality:** Clear the screen for a new calculation.
 - **Decimal Support:** Input and display decimal numbers.
 - **Responsive Design:** The calculator adapts to various screen sizes for a seamless user experience.
